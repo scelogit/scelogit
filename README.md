@@ -59,7 +59,7 @@ const scelo = {
 
   tech: {
     mobile:   ["React Native"],
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
     backend:  ["Java", "C#", "Python"],
     database: ["MySQL", "SQL"]
   },
@@ -97,11 +97,11 @@ const scelo = {
   <tr>
     <td width="50%" valign="top">
       <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=java,cs,js,py&theme=dark" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py&theme=dark" alt="Languages" />
     </td>
     <td width="50%" valign="top">
       <h4>Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend" />
     </td>
   </tr>
   <tr>
