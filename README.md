@@ -178,6 +178,7 @@ const scelo = {
 React Native       ███████░░░  70%
 JavaScript         ███████░░░  70%
 HTML / CSS         ████████░░  80%
+Typescript         ██████░░░░  60%
 Java               ███████░░░  70%
 C# / WinForms      ██████░░░░  60%
 SQL / Databases    ██████░░░░  60%
