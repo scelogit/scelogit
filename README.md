@@ -223,7 +223,7 @@ UI/UX Design       ██████░░░░  60%
 
 I'm always open to collaborating on projects, learning from other developers, and building things that matter.
 
-- 💼 **LinkedIn:** [linkedin.com/in/scelo-thobani-devs](https://www.linkedin.com/in/scelo-thobani-devs)
+- 💼 **LinkedIn:** [linkedin.com/in/uscelo-mntungwa](https://www.linkedin.com/in/uscelo-mntungwa)
 - 📧 **Email:** scelothobani26@gmail.com
 - 🌐 **Portfolio:** [Coming Soon]
 
